@@ -1,2 +1,0 @@
-# gitfirst
-Homework from stepik
